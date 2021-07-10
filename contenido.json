@@ -1,0 +1,15 @@
+{"contenido":[
+        {"tag": "saludo",
+            "patrones": ["hola", "un saludo","hello"],
+            "respuestas": ["Hola que tal!", "Como te va?", "Un gusto de verte"]
+        },
+        { "tag": "despedida",
+                "patrones": ["adios", "hasta la proxima", "nos vemos"],
+                "respuestas": ["adios", "nos vemos pronto", "te estare esperando"]
+        },
+        { "tag": "desayuno",
+            "patrones": ["desayuno", "desayuno", "hambre"],
+            "respuestas": ["cuidate", "nos vemos pronto", "te estare esperando"]
+    }
+    ]
+}
