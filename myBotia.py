@@ -8,7 +8,7 @@ from tensorflow.python.framework import ops
 import json
 import random
 import pickle
-
+#inicio
 with open("contenido.json", encoding='utf-8') as archivo:
         datos = json.load(archivo)
 
